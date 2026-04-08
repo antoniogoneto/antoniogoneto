@@ -5,6 +5,7 @@
 🚀 Em constante evolução  
 
 ## 🛠️ Tecnologias
+- HTML5 & CSS
 - JavaScript
 - Node.js
 - Git & GitHub
@@ -13,8 +14,10 @@
 Em construção...
 
 ## 📚 Atualmente estudando
+- Barcharelado em Ciência da Computação
 - Bootcamps na DIO
-- Desenvolvimento backend
+- Desenvolvimento front/backend
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/antoniogoneto
+- Instagram: https://www.instagram.com/antoniogomontana
