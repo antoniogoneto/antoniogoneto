@@ -15,7 +15,8 @@ Estou sempre buscando aprender mais, evoluir na prática e desenvolver projetos 
 - CSS3
 - JavaScript
 - Node.js
-- Git & GitHub
+- Git
+- GitHub
 
 ## 🚀 Projetos
 
